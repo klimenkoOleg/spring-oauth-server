@@ -1,0 +1,22 @@
+spring:
+  datasource:
+    url: jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=FALSE
+    driverClassName: org.h2.Driver
+    username: sa
+    password:
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.H2Dialect
+        hbm2ddl.auto: validate
+        show_sql: true
+        format_sql: true
+  flyway:
+    enabled: true
+#    schemas: chrg2
+#    url: jdbc:postgresql://localhost:5432/postgres?currentSchema=chrg2
+    #    url: jdbc:postgresql://193.48.96.91:5432/rdbo?currentSchema=chrg
+#    user: postgres
+    #    user: rdbo_chrg_cd
+#    password: postgres
+  #    password: qwe1234rty

@@ -1,0 +1,12 @@
+/Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/baeldung/config/RevokeTokenEndpoint.java
+/Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/baeldung/config/CustomTokenEnhancer.java
+/Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/baeldung/config/OAuth2AuthorizationServerConfigJwt.java
+/Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/baeldung/model/Employee.java
+/Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/baeldung/config/OAuth2AuthorizationServerConfigInMemory.java
+/Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/baeldung/config/OAuth2ResourceServerConfig.java
+/Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/baeldung/controller/TokenController.java
+/Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/baeldung/config/CorsFilter.java
+/Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/baeldung/config/EmployeeController.java
+/Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/baeldung/config/WebSecurityConfig.java
+/Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/baeldung/config/OAuth2AuthorizationServerConfig.java
+/Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/baeldung/config/AuthorizationServerApplication.java
