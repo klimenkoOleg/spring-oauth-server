@@ -41,6 +41,18 @@
         </dependency>
 
         <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-access</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.12</version>
+            <scope>provided</scope>
+        </dependency>
+
+        <dependency>
             <groupId>com.h2database</groupId>
             <artifactId>h2</artifactId>
         </dependency>
@@ -105,6 +117,10 @@
             <artifactId>rest-assured</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>io.rest-assured</groupId>
+            <artifactId>rest-assured</artifactId>
+        </dependency>
 
     </dependencies>
 
@@ -149,7 +165,7 @@
         <maven-surefire-plugin.version>2.22.1</maven-surefire-plugin.version>
         <cargo-maven2-plugin.version>1.7.3</cargo-maven2-plugin.version>
         <!-- The main class to start by executing java -jar -->
-        <start-class>com.baeldung.config.AuthorizationServerApplication</start-class>
+        <start-class>com.oklimenko.authserver.AuthorizationServerApplication</start-class>
     </properties>
 
     <!-- <profiles> <profile> <id>dev</id> <build> <resources> <resource> <directory>src/main/resources</directory>

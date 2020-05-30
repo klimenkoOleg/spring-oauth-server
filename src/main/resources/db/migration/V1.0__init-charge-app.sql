@@ -95,6 +95,16 @@ CREATE TABLE if not exists users
     CONSTRAINT users_pkey PRIMARY KEY (id)
 );
 
+create table if not exists profile
+(
+    id                  serial       NOT NULL,
+    user_name           varchar(255) NOT NULL,
+    email               varchar(255) NOT NULL,
+    name                varchar(255) NOT NULL,
+    department          varchar(255) NOT NULL,
+    CONSTRAINT profile_pkey PRIMARY KEY (id)
+);
+
 CREATE TABLE if not exists user_authority
 (
     id           serial NOT NULL,

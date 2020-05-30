@@ -1,0 +1,9 @@
+{	"userName": "oleg",
+	"password": "pass",
+	"email": "oklimenko@gmail.com",
+	"name": "Oleg Klimenko",
+	"department": "RnD fantastic department"
+}
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1OTA1MTIwODcsInVzZXJfbmFtZSI6InRlc3RVc2VyIiwiYXV0aG9yaXRpZXMiOlsiQURNSU4iXSwianRpIjoiY2U2MTI5ZDMtMzEwMS00NDE3LWFjOWEtOGI4ZDJiYTdlMWZiIiwiY2xpZW50X2lkIjoiZm9vQ2xpZW50SWRQYXNzd29yZCIsInNjb3BlIjpbImZvbyIsInJlYWQiLCJ3cml0ZSJdfQ.-lQHXDfUhhSfXgp3Y9B5eMcBjYpgOSbJne-d_B0-xNE
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1OTA1MTIwODcsInVzZXJfbmFtZSI6InRlc3RVc2VyIiwiYXV0aG9yaXRpZXMiOlsiQURNSU4iXSwianRpIjoiY2U2MTI5ZDMtMzEwMS00NDE3LWFjOWEtOGI4ZDJiYTdlMWZiIiwiY2xpZW50X2lkIjoiZm9vQ2xpZW50SWRQYXNzd29yZCIsInNjb3BlIjpbImZvbyIsInJlYWQiLCJ3cml0ZSJdfQ.-lQHXDfUhhSfXgp3Y9B5eMcBjYpgOSbJne-d_B0-xNE
