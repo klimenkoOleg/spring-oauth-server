@@ -18,9 +18,6 @@ public class TokenController {
     @Autowired
     private DefaultTokenServices tokenServices;
 
-    @Resource(name = "tokenStore")
-    private TokenStore tokenStore;
-
     @RequestMapping(method = RequestMethod.POST, value = "/oauth/token/revokeById/{tokenId}")
     public void revokeToken(HttpServletRequest request, @PathVariable String tokenId) {
         tokenServices.revokeToken(tokenId);
