@@ -4,6 +4,7 @@
 /Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/oklimenko/authserver/repository/UserAuthorityRepo.java
 /Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/oklimenko/authserver/config/WebSecurityConfig.java
 /Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/oklimenko/authserver/model/userprofile/UserProfile.java
+/Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/oklimenko/authserver/config/prometheus/RequestTimingInterceptor.java
 /Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/oklimenko/authserver/config/JwtTokenStoreWithRevoke.java
 /Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/oklimenko/authserver/dto/CustomGrantedAuthority.java
 /Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/oklimenko/authserver/controller/TokenController.java
@@ -12,7 +13,9 @@
 /Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/oklimenko/authserver/model/oauth/UserAuthority.java
 /Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/oklimenko/authserver/dto/UserProfileDto.java
 /Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/oklimenko/authserver/model/oauth/User.java
+/Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/oklimenko/authserver/config/prometheus/RequestCounterInterceptor.java
 /Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/oklimenko/authserver/repository/UserRepository.java
+/Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/oklimenko/authserver/config/prometheus/WebMvcConfig.java
 /Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/oklimenko/authserver/config/resourceserver/CustomAccessTokenConverter.java
 /Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/oklimenko/authserver/config/CustomTokenEnhancer.java
 /Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/oklimenko/authserver/config/TomcatLogging.java
