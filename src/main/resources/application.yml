@@ -52,3 +52,8 @@ spring:
 #server.tomcat.accesslog.enabled: true
 #server.tomcat.accesslog.pattern: "%h %{X-Forwarded-For}i %l %u %t %r %s %b"
 #server.tomcat.accesslog.prefix: tomcat_access_log
+#Metrics related configurations
+management.endpoint.metrics.enabled: true
+management.endpoints.web.exposure.include: "*"
+management.endpoint.prometheus.enabled: true
+management.metrics.export.prometheus.enabled: true

@@ -114,7 +114,8 @@ public class UserManagerService {
         if ( details instanceof OAuth2AuthenticationDetails){
             OAuth2AuthenticationDetails oAuth2AuthenticationDetails = (OAuth2AuthenticationDetails)details;
             Jwt jwtToken = JwtHelper.decode(oAuth2AuthenticationDetails.getTokenValue());
-            String claims = jwtToken.getClaims();
+            String
+                    claims = jwtToken.getClaims();
             HashMap claimsMap = null;
             try {
                 claimsMap = new ObjectMapper().readValue(claims, HashMap.class);

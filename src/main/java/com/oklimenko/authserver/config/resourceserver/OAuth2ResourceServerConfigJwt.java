@@ -24,7 +24,9 @@ public class OAuth2ResourceServerConfigJwt extends ResourceServerConfigurerAdapt
         // @formatter:off
                 http.sessionManagement().sessionCreationPolicy(SessionCreationPolicy.IF_REQUIRED)
                     .and()
-                    .authorizeRequests().anyRequest().permitAll();
+                    .authorizeRequests().anyRequest().permitAll()
+                    .antMatchers( "/test/**").//, "/payment/**").
+                    permitAll();
         // @formatter:on                
     }
 
