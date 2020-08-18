@@ -4,6 +4,7 @@ com/oklimenko/authserver/config/RestResponseEntityExceptionHandler.class
 com/oklimenko/authserver/repository/AuthorityRepo.class
 com/oklimenko/authserver/config/prometheus/WebMvcConfig.class
 com/oklimenko/authserver/AuthorizationServerApplication.class
+com/oklimenko/authserver/config/PassordEncoderConfig.class
 com/oklimenko/authserver/config/WebSecurityConfig.class
 com/oklimenko/authserver/config/prometheus/RequestTimingInterceptor$1.class
 com/oklimenko/authserver/model/oauth/Authority.class

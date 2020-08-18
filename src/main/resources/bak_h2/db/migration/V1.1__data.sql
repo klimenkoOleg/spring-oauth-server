@@ -23,8 +23,5 @@ VALUES
 
 insert  into authority(name) values ('ADMIN');
 -- insert  into users(account_expired,account_locked,credentials_expired,enabled,password,user_name) values (0,0,0,1,'admin','admin');
--- insert  into users(account_expired,account_locked,credentials_expired,enabled,password,user_name) values (0,0,0,1,'$2a$04$mRzzeBK/WBkzppne0IVoMOFP/WCvvbTLzmjHtGFLu52EFn28TNKVu','admin');
--- insert  into users(account_expired,account_locked,credentials_expired,enabled,password,user_name) values (0,0,0,1,'$2a$04$mRzzeBK/WBkzppne0IVoMOFP/WCvvbTLzmjHtGFLu52EFn28TNKVu','admin');
-insert  into users(account_expired,account_locked,credentials_expired,enabled,password,user_name) values (false,false,false,true,'$2a$04$mRzzeBK/WBkzppne0IVoMOFP/WCvvbTLzmjHtGFLu52EFn28TNKVu','admin');
-
+insert  into users(account_expired,account_locked,credentials_expired,enabled,password,user_name) values (0,0,0,1,'$2a$04$mRzzeBK/WBkzppne0IVoMOFP/WCvvbTLzmjHtGFLu52EFn28TNKVu','admin');
 insert  into user_authority(authority_id,user_id) values (1,1);

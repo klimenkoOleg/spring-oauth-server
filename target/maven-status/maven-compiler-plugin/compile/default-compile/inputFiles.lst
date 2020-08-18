@@ -26,6 +26,7 @@
 /Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/oklimenko/authserver/repository/AuthorityRepo.java
 /Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/oklimenko/authserver/config/RestResponseEntityExceptionHandler.java
 /Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/oklimenko/authserver/model/oauth/Authority.java
+/Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/oklimenko/authserver/config/PassordEncoderConfig.java
 /Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/oklimenko/authserver/config/ManageableJwtTokenStore.java
 /Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/oklimenko/authserver/dto/NewUserProfileDto.java
 /Users/oklimenko/IdeaProjects/spring-oauth-server/src/main/java/com/oklimenko/authserver/service/UserManagerService.java
